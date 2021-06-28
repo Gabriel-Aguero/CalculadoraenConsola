@@ -1,0 +1,21 @@
+F:\c#\Segunda Clase\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\c#\Segunda Clase\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\c#\Segunda Clase\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\c#\Segunda Clase\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\c#\Segunda Clase\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\GABY\TODO PROGRAMACION\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\GABY\TODO PROGRAMACION\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\GABY\TODO PROGRAMACION\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\GABY\TODO PROGRAMACION\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\GABY\TODO PROGRAMACION\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\GABY\programacion\programas-C#\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\GABY\programacion\programas-C#\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\GABY\programacion\programas-C#\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\GABY\programacion\programas-C#\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\GABY\programacion\programas-C#\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Programacion\programas-C#\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Programacion\programas-C#\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Programacion\programas-C#\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+E:\Programacion\programas-C#\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+E:\Programacion\programas-C#\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\Programacion\programas-C#\ejercicio calculadora c#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
